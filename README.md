@@ -1,2 +1,2 @@
-# Szandi1225.gitbub.io
+# Szandi1225.github.io
 Demo page.
